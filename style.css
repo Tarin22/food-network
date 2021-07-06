@@ -5,6 +5,7 @@ body{
 h1{
     font-size: 60px;
     color: gray;
+    padding-top:20px;
 }
 h2{
     font-size: 40px;
@@ -44,17 +45,19 @@ p{
     width: 90%;
 }
 .recipie{
-    width: 33%;
+    width: 28%;
     padding-left: 2%;
     margin-left: 2%;
+    margin-right: 2%;
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
 }
 .recipie img{
-    width: 400px;
-    height: 300px;
+    width: 380px;
+    height: 250px;
     margin-top:6%;
-    margin-left:2%;
+    margin-right: 2em;
+    
     
 }
 .female{
