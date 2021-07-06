@@ -10,6 +10,9 @@ h2{
     font-size: 40px;
     color: grey;
 }
+.h2{
+    text-align:center;
+}
 .orange-color{
     color: orange;
 }
@@ -21,9 +24,15 @@ p{
 .p{
     color: black;
     padding-right:5% ;
+    font-size:15px;
 
 }
-section{
+.pera{
+    text-align:center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.recipie-sec{
     display: flex;
     margin-bottom:100px;
 }
@@ -33,6 +42,20 @@ section{
 }
 .half-width img {
     width: 90%;
+}
+.recipie{
+    width: 33%;
+    padding-left: 2%;
+    margin-left: 2%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.recipie img{
+    width: 400px;
+    height: 300px;
+    margin-top:6%;
+    margin-left:2%;
+    
 }
 .female{
     width: 50%;
@@ -69,5 +92,17 @@ section{
     background-size:100% ;
     background-position: 100%;
 
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: grey;
+}
+footer p{
+    font-size:10px;
+    color: white;
+    text-align: center;
 }
 
