@@ -58,6 +58,10 @@ p{
     margin-top:6%;
     margin-right: 2em; 
 }
+.Recipie-Title{
+    font-size: 30px;
+    font-weight: 900;
+}
 .sec-box{
     width: 80%;
     height:300px ;
@@ -65,6 +69,9 @@ p{
     margin-right:10%;
     border-radius: 20px;
     box-shadow: 10px 10px 15px gray;
+}
+.h3{
+    font-size: 2em;
 }
 .subs{
     padding-left:10%;
@@ -124,7 +131,7 @@ footer{
     color: grey;
 }
 footer p{
-    font-size:10px;
+    font-size:15px;
     color: white;
     text-align: center;
 }
