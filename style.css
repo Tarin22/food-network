@@ -56,9 +56,29 @@ p{
     width: 380px;
     height: 250px;
     margin-top:6%;
-    margin-right: 2em;
-    
-    
+    margin-right: 2em; 
+}
+.sec-box{
+    width: 80%;
+    height:300px ;
+    margin-left:10%;
+    margin-right:10%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px gray;
+}
+.subs{
+    padding-left:10%;
+    padding-right:10%;
+}
+.pera-subs{
+    font-size: 15px;
+    color: black;
+    padding-bottom: 50%;
+}
+.h-small{
+    color: black;
+    font-weight: 600;
+    padding-top: 20px;
 }
 .female{
     width: 50%;
